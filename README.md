@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Audrey
+# 💎 Audrey
 
 **Webflow · Yaratıcı Ajans Portfolyosu**
 
